@@ -147,6 +147,8 @@ Ein Coverage-Report ist eine Möglichkeit, um zu überprüfen, wie viel Prozent 
 
 Der Coverage-Report kann genutzt werden, um sicherzustellen, dass alle Teile des Codes getestet wurden und dass die Tests die Funktionalität der Anwendung sicherstellen.
 
+In diesem Projekt wird ein Coverage-Report generiert, der anzeigt, wie viel Prozent des Codes von den Tests abgedeckt sind. Der Coverage-Report wird automatisch generiert, wenn der Befehl `npm run test:coverage` ausgeführt wird. Der Report wird im Ordner `/coverage` gespeichert und kann in einem Browser geöffnet werden.
+
 ## Lernziele
 
 - Unit-Tests mit Jest schreiben
